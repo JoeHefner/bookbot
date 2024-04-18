@@ -1,2 +1,3 @@
 # bookbot
-Boot.dev Python project Bookbot
+
+Boot.dev Python education project Bookbot
